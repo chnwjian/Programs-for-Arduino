@@ -1,0 +1,2 @@
+Photoresistance中，使用串口监视器查看读到的光敏电阻值
+LED_Photoresistance中，通过外界光强来调节LED亮暗
